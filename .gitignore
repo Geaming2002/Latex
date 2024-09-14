@@ -1,0 +1,6 @@
+# latex aux
+*.aux
+*.blg
+*.out
+*.synctex.gz
+*.bbl
